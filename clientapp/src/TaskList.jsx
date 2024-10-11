@@ -13,7 +13,7 @@ const TaskList = () => {
 
     const loadTasks = async () => {
         const response = await getTasks();
-        const sortedTasks = response.data.sort((a, b) => b.id - a.id);
+        const sortedTasks = response.data.sort((a, b) => b.id - a.id); //se filtra los datos para obtener primero los más recientes basados en el id
         setTasks(sortedTasks);
     };
         const handleDelete = async (id) => {
