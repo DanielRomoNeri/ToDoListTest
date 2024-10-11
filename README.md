@@ -14,7 +14,7 @@
 2. En el archivo de api.js modificar el puerto de la API si es necesario.
 2. Ejecutar npm run dev para iniciar la aplicación de React.
 ## Endpoints de la API
-- GET /api/ToDoList: Obtener todas las tareas.
-- POST /api/Crear: Crear una nueva tarea.
-- PUT /api/Editar/{id}: Actualizar una tarea existente.
-- DELETE /api/Borrar/{id}: Eliminar una tarea.
+- GET /api/Lista/ToDoList: Obtener todas las tareas.
+- POST /api/Lista/Crear: Crear una nueva tarea.
+- PUT /api/Lista/Editar/{id}: Actualizar una tarea existente.
+- DELETE /api/Lista/Borrar/{id}: Eliminar una tarea.
