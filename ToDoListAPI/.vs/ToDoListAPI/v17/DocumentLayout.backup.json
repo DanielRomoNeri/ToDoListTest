@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ninte\\Desktop\\PruebaTecnica\\ToDoListAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6E73B6-FA31-4779-ACD8-2BCC1C27285C}|ToDoListAPI.csproj|c:\\users\\ninte\\desktop\\pruebatecnica\\todolistapi\\controllers\\listacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6E73B6-FA31-4779-ACD8-2BCC1C27285C}|ToDoListAPI.csproj|solutionrelative:controllers\\listacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ninte\\Desktop\\ProyectosDotNet\\CrudNet8MVC\\Controllers\\InicioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6E73B6-FA31-4779-ACD8-2BCC1C27285C}|ToDoListAPI.csproj|c:\\users\\ninte\\desktop\\pruebatecnica\\todolistapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6E73B6-FA31-4779-ACD8-2BCC1C27285C}|ToDoListAPI.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6E73B6-FA31-4779-ACD8-2BCC1C27285C}|ToDoListAPI.csproj|c:\\users\\ninte\\desktop\\pruebatecnica\\todolistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6E73B6-FA31-4779-ACD8-2BCC1C27285C}|ToDoListAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6E73B6-FA31-4779-ACD8-2BCC1C27285C}|ToDoListAPI.csproj|c:\\users\\ninte\\desktop\\pruebatecnica\\todolistapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF6E73B6-FA31-4779-ACD8-2BCC1C27285C}|ToDoListAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "C:\\Users\\ninte\\Desktop\\ProyectosDotNet\\CrudNet8MVC\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "..\\..\\ProyectosDotNet\\CrudNet8MVC\\Controllers\\InicioController.cs",
+              "ToolTip": "C:\\Users\\ninte\\Desktop\\ProyectosDotNet\\CrudNet8MVC\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "..\\..\\ProyectosDotNet\\CrudNet8MVC\\Controllers\\InicioController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:45:24.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ninte\\Desktop\\PruebaTecnica\\ToDoListAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ninte\\Desktop\\PruebaTecnica\\ToDoListAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:02:09.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ninte\\Desktop\\PruebaTecnica\\ToDoListAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ninte\\Desktop\\PruebaTecnica\\ToDoListAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:14:11.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaController.cs",
+              "DocumentMoniker": "C:\\Users\\ninte\\Desktop\\PruebaTecnica\\ToDoListAPI\\Controllers\\ListaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ListaController.cs",
+              "ToolTip": "C:\\Users\\ninte\\Desktop\\PruebaTecnica\\ToDoListAPI\\Controllers\\ListaController.cs",
+              "RelativeToolTip": "Controllers\\ListaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:03:08.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ninte\\Desktop\\PruebaTecnica\\ToDoListAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ninte\\Desktop\\PruebaTecnica\\ToDoListAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T20:02:55.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
