@@ -1,4 +1,4 @@
-# PruebaTecnica
+
 # To-Do List Application
 ## Requisitos
 - .NET Core SDK
